@@ -5,7 +5,8 @@ title: About
 
 **PhD student in cognitive psychology** applying lab, field, and mixed-methods user research to understand how **digital design influences user motivation and behavior**. Work spans interactive consumer interfaces (gambling, gaming) and meta-scientific studies on data-driven research.
 
-- **CV**: [PDF](#)  
+- **Publications:** [View here]({{ site.baseurl }}/publications/)  
+- **Presentations:** [View here]({{ site.baseurl }}/presentations/)   
 - **Google Scholar**: [scholar.google.com/...](#)  
 - **LinkedIn**: [linkedin.com/in/...](#)
 
