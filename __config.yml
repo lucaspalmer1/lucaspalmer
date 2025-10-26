@@ -1,12 +1,11 @@
 title: Lucas Palmer
-description: Cognitive Science · UX Research 
+description: UX Research · Cognitive Psychology
 theme: minima
 
-# Show these pages as top navigation
-header_pages:
-  - publications.md
-  - presentations.md
+url: "https://lucaspalmer1.github.io"   # your user domain
+baseurl: "/lucaspalmer"                 # your project path
 
-# Optional: tidy URLs (no .html)
-permalink: pretty
-
+minima:
+  nav_pages:
+    - publications.md
+    - presentations.md
