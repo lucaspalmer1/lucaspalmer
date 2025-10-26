@@ -1,1 +1,12 @@
+title: Lucas Palmer
+description: Cognitive Science · UX Research 
+theme: minima
+
+# Show these pages as top navigation
+header_pages:
+  - publications.md
+  - presentations.md
+
+# Optional: tidy URLs (no .html)
+permalink: pretty
 
